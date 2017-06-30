@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    font-size: 0px;
+}
+
+body {
+    background: black;
+}
+
+.row div {
+    width: 48px;
+    height: 48px;
+    display: inline-block;
+}
+
+.wall {
+    background: blue;
+}
+
+.food {
+    background: white;
+    border: 16px solid black;
+    border-radius: 100px;
+}
+
+.plyr {
+    background: yellow;
+    border: 4px solid black;
+    border-radius: 100px;
+}
+
