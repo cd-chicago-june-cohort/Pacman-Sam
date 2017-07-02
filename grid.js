@@ -6,7 +6,8 @@ var FRUT = 'frut';
 var ORNG = 'gst1';
 var BLUE = 'gst2';
 var TUNL = 'tunl';
-var PREY = 'prey';
+var OPRY = 'pry1';
+var BPRY = 'pry2';
 
 //////Block this off - make room for building your grid//////////////////////
 
