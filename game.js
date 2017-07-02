@@ -120,7 +120,6 @@ $(document).ready(function(){
             if (shouldUpdateDisplay) {
                 updateDisplay();
                 $('#score').text('Score: ' + score.toString());
-                // $('.plyr').css('transform', 'rotate(' + pacman + 'deg)');
             }
         });
     });
